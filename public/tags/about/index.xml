@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About on RapidF5</title>
+    <link>http://localhost:1313/tags/about/</link>
+    <description>Recent content in About on RapidF5</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 May 2025 13:49:57 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Fri, 16 May 2025 13:49:57 -0700</pubDate>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Me&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cory.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to my little corner of the internet. I&amp;rsquo;m Cory — an IT specialist by trade, a Division agent by night, and someone who’s always diving into something new every couple of weeks. This blog is my digital notebook, brain-dump, and archive of the stuff I’m learning, building, and obsessing over.&lt;/p&gt;
+&lt;h3 id=&#34;-what-youll-find-here&#34;&gt;🛠️ What you&amp;rsquo;ll find here:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep dives into tech I&amp;rsquo;m exploring (especially networking &amp;amp; servers)&lt;/li&gt;
+&lt;li&gt;The Division lore breakdowns and opinions&lt;/li&gt;
+&lt;li&gt;Some hot takes on WWE&lt;/li&gt;
+&lt;li&gt;Book reviews when I actually finish them&lt;/li&gt;
+&lt;li&gt;Random thoughts that probably came from too much caffeine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;m building this site as a way to document my journey and maybe help someone else who’s on a similar path.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
