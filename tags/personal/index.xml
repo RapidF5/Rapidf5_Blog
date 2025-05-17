@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Personal on RapidF5</title>
+    <link>https://RapidF5.com/tags/personal/</link>
+    <description>Recent content in Personal on RapidF5</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 May 2025 05:39:08 -0700</lastBuildDate>
+    <atom:link href="https://RapidF5.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Hired in IT: What Worked for Me</title>
+      <link>https://RapidF5.com/posts/hired-in-it-what-worked/</link>
+      <pubDate>Sat, 17 May 2025 05:39:08 -0700</pubDate>
+      <guid>https://RapidF5.com/posts/hired-in-it-what-worked/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;IT Dad&#34; loading=&#34;lazy&#34; src=&#34;https://RapidF5.com/images/ITdad.png&#34;&gt;
+&lt;strong&gt;Just a heads-up:&lt;/strong&gt; Everything here is based on my own experience and opinions. Nothing I say should be taken as the views of my employer.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;the-goal&#34;&gt;The Goal&lt;/h3&gt;
+&lt;p&gt;The goal of this article is to share how I broke into the IT field—what worked for me, what didn’t, and the lessons I learned along the way. This is just &lt;em&gt;my path, not the path&lt;/em&gt;, and it might not be the right fit for everyone. I’m writing this as if I were talking to a close friend or my own son asking, &lt;em&gt;“How do I get started in IT?”&lt;/em&gt; I’ll be as real and detailed as possible in hopes that something here helps you on your own journey.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to My Digital Brain Dump</title>
+      <link>https://RapidF5.com/posts/introduction/</link>
+      <pubDate>Fri, 16 May 2025 13:49:57 -0700</pubDate>
+      <guid>https://RapidF5.com/posts/introduction/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Cory&#34; loading=&#34;lazy&#34; src=&#34;https://RapidF5.com/images/cory.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;You’ve arrived at my Base of Operations — &lt;em&gt;a digital HQ for data dumps, shifting obsessions, and the occasional rant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I’m Cory, an IT Specialist by trade. This blog is my sandbox — a place to lock in what I’m learning, and to write about the things I’m passionate about. It’s also a bit of a time capsule — something my family can look back on someday and see what made me tick.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
