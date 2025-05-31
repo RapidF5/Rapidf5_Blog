@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RapidF5</title>
+    <link>https://RapidF5.com/tags/</link>
+    <description>Recent content on RapidF5</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 May 2025 12:12:38 -0700</lastBuildDate>
+    <atom:link href="https://RapidF5.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review</title>
+      <link>https://RapidF5.com/tags/book-review/</link>
+      <pubDate>Sat, 17 May 2025 12:12:38 -0700</pubDate>
+      <guid>https://RapidF5.com/tags/book-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Division</title>
+      <link>https://RapidF5.com/tags/the-division/</link>
+      <pubDate>Sat, 17 May 2025 12:12:38 -0700</pubDate>
+      <guid>https://RapidF5.com/tags/the-division/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Career</title>
+      <link>https://RapidF5.com/tags/career/</link>
+      <pubDate>Sat, 17 May 2025 05:39:08 -0700</pubDate>
+      <guid>https://RapidF5.com/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>https://RapidF5.com/tags/personal/</link>
+      <pubDate>Sat, 17 May 2025 05:39:08 -0700</pubDate>
+      <guid>https://RapidF5.com/tags/personal/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
