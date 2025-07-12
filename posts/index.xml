@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on RapidF5</title>
+    <link>https://RapidF5.com/posts/</link>
+    <description>Recent content in Posts on RapidF5</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jul 2025 12:12:38 -0700</lastBuildDate>
+    <atom:link href="https://RapidF5.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review: World of Warcraft: Rise of the Horde</title>
+      <link>https://RapidF5.com/posts/rise-of-the-horde-review/</link>
+      <pubDate>Mon, 07 Jul 2025 12:12:38 -0700</pubDate>
+      <guid>https://RapidF5.com/posts/rise-of-the-horde-review/</guid>
+      <description>&lt;p&gt;COMING SOON&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Book Review: World of Warcraft: Dawn of the Aspects</title>
+      <link>https://RapidF5.com/posts/dawn-of-aspects-review/</link>
+      <pubDate>Sun, 06 Jul 2025 12:12:38 -0700</pubDate>
+      <guid>https://RapidF5.com/posts/dawn-of-aspects-review/</guid>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://RapidF5.com/images/dawn-of-aspects-front.jpeg&#34; width=&#34;30%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Format:&lt;/strong&gt; Audiobook&lt;br&gt;
+&lt;a href=&#34;https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects&#34;&gt;Wowpedia Dawn of the Aspects Page&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=R-R4NiG2rAE&#34;&gt;Watch the &amp;ldquo;Dawn of the Aspects&amp;rdquo; Supercut on YouTube&lt;/a&gt; — &lt;em&gt;Flying Buttress&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;overall-rating&#34;&gt;Overall Rating&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;★★★★★★★☆☆☆ (7/10)&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;heading&#34;&gt;✅&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Solid narration and audio quality&lt;/li&gt;
+&lt;li&gt;Fascinating look into early Azeroth&lt;/li&gt;
+&lt;li&gt;Some intense, well-written action scenes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;heading-1&#34;&gt;❌&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;The prologue felt disconnected from the main story&lt;/li&gt;
+&lt;li&gt;Similar-sounding voices in the Audible version made some scenes confusing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;thoughts&#34;&gt;Thoughts&lt;/h3&gt;
+&lt;p&gt;When I started reading this, I was told it was the best place to begin since it’s set furthest back in Azeroth’s timeline. However, I later found a more helpful reading order: &lt;a href=&#34;https://www.reddit.com/r/warcraftlore/comments/16ph4l9/ultimate_guide_to_warcraft_lore_full_reading_and/&#34;&gt;Best Warcraft Lore Order&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Hired in IT: What Worked for Me</title>
+      <link>https://RapidF5.com/posts/hired-in-it-what-worked/</link>
+      <pubDate>Sat, 17 May 2025 05:39:08 -0700</pubDate>
+      <guid>https://RapidF5.com/posts/hired-in-it-what-worked/</guid>
+      <description>&lt;h3 id=&#34;the-goal&#34;&gt;The Goal&lt;/h3&gt;
+&lt;p&gt;The goal of this article is to share how I broke into the IT field—what worked for me, what didn’t, and the lessons I learned along the way. This is just &lt;em&gt;my path, not the path&lt;/em&gt;, and it might not be the right fit for everyone. I’m writing this as if I were talking to a close friend or my own son asking, &lt;em&gt;“How do I get started in IT?”&lt;/em&gt; I’ll be as real and detailed as possible in hopes that something here helps you on your own journey.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to My Digital Brain Dump</title>
+      <link>https://RapidF5.com/posts/introduction/</link>
+      <pubDate>Fri, 16 May 2025 13:49:57 -0700</pubDate>
+      <guid>https://RapidF5.com/posts/introduction/</guid>
+      <description>&lt;p&gt;You’ve arrived at my Base of Operations — &lt;em&gt;a digital HQ for data dumps, shifting obsessions, and the occasional rant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I’m Cory, an IT Specialist by trade. This blog is my sandbox — a place to lock in what I’m learning, and to write about the things I’m passionate about. It’s also a bit of a time capsule — something my family can look back on someday and see what made me tick.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
